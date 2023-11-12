@@ -1,0 +1,9 @@
+h4 {
+    color: rgba(234, 234, 62, 8);
+    background-color: gold
+}
+.colum {
+    width: 50%;
+    float: left;
+    margin-right: 10px
+}
